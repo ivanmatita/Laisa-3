@@ -1,0 +1,7 @@
+{
+  "name": "Laisa  3",
+  "description": "Imatec",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
